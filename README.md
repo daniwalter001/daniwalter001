@@ -5,7 +5,7 @@
 
 ### So...
 
-- 🔭 I’m currently with [Brainy](https://github.com/Brainy-Docs) guys
+- 🔭 I’m actually with [Brainy](https://github.com/Brainy-Docs) guys
 - 🌱 I’m currently learning **Advanced Python** for IA stuff like **ML** & **DL** and **Cybersec**
 - 👯 I’m looking to collaborate on various projects 
 - 💬 Ask me about everything about techs, computing, coding
